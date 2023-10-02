@@ -1,0 +1,7 @@
+Dieses Pogramm stellt einen Worttrainer für Volkschulkinder da, der folgende Funktionen besitzt:
+
+* Wählt zufällig aus einer Liste von Bild-Wort-Beziehungen, Eines aus und lässt den Nutzer das Wort zum Bild eingeben
+
+* Speichert die Statistik in einer JSON-Datei, um den Fortschritt auch nach dem Beenden des Programmes zu speichern
+
+* Erstellt eine Benutzeroberfläche mittels JOtpionPane
